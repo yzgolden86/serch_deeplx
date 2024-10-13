@@ -362,3 +362,4 @@ https://deepl.kevinzhang.cn
 http://deeplx.qninq.cn
 http://142.171.224.10:1188
 https://deeplx.zeabur.app
+http://222.90.149.188:1188
